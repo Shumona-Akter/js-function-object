@@ -30,5 +30,6 @@ var propertyNames = Object.keys(mySelf);
 
 console.log(propertyNames)
 // object a joto gulo value ase tader sob gulor man jante and ata array akare property nam dibe;
-var propertyName = Object.values(mySelf)
-console.log(propertyName)
+var propertyName = Object.values(mySelf);
+console.log(propertyName);
+
